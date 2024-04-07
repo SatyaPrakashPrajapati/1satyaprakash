@@ -1,6 +1,6 @@
 <img align="left" width="400" Height="100" alt="Satya Prakash Prajapati" src="###"/>
 <aside align="right">
-  <li>I am Satya Prakash Prajapati</li>
+  <li>I am <b>Satya Prakash Prajapati</b></li>
   <li>I'm interested in Programming, Data Science and Hacking...</li>
   <li>I'm currently learning Python, Html, C++ ....</li>
 </aside>
