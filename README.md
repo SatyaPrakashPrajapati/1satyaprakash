@@ -7,7 +7,7 @@
 <p align = center ><img src="#"> </p>
 <div>
 <h2> | About |</h2>
-<li>⭐ currently working on <b>Python</b>b></li>
+<li>⭐ currently working on <b>Python</b></li>
 <li>💀 mostly working on <b>private repositories</b></li>
 <li>👾 a <b>student</b> working his way around things</li>
 <h2> | Current Skills | </h2>
