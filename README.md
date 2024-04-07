@@ -1,7 +1,7 @@
 <aside>
-I am Satya Prakash Prajapati
-I'm interested in Programming, Data Science and Hacking...
-I'm currently learning Python, Html, C++ ....
+<li>I am Satya Prakash Prajapati</li>
+<li>I'm interested in Programming, Data Science and Hacking...</li>
+<li>I'm currently learning Python, Html, C++ ....</li>
 </aside>
 <p align = center ><img src="#"> </p>
 
