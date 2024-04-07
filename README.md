@@ -1,4 +1,4 @@
-<img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
+<img align="left" width="400" alt="Satya Prakash Prajapati" src="###"/>
   <li>I am Satya Prakash Prajapati</li>
   <li>I'm interested in Programming, Data Science and Hacking...</li>
   <li>I'm currently learning Python, Html, C++ ....</li>
