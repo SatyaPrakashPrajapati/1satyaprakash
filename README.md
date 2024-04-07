@@ -12,8 +12,8 @@
 <h2> | Current Skills | </h2>
 <li>currently learning Python</li>
 <li>frameworks & libraries</li>
-<div align="right">
-<a href="##">Satya Prakash Prajapati</a>
+  <div align="right">
+    <a href="##">Satya Prakash Prajapati</a>
   </div>
-  </div>
+</div>
   
