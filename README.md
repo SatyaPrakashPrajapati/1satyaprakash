@@ -1,4 +1,5 @@
 <aside>
+<img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
 <li>I am Satya Prakash Prajapati</li>
 <li>I'm interested in Programming, Data Science and Hacking...</li>
 <li>I'm currently learning Python, Html, C++ ....</li>
@@ -6,7 +7,7 @@
 <p align = center ><img src="#"> </p>
 
 <div>
-<img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
+  
 <h2> | About |</h2>
 <li>⭐ currently working on **Python**</li>
 <li>💀 mostly working on **private repositories**</li>
