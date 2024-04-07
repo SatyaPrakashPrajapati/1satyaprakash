@@ -7,11 +7,11 @@
 <p align = center ><img src="#"> </p>
 <div>
 <h2> | About |</h2>
-<li>⭐ currently working on **Python**</li>
-<li>💀 mostly working on **private repositories**</li>
-<li>👾 a **student** working his way around things</li>
+<li>⭐ currently working on <b>Python</b>b></li>
+<li>💀 mostly working on <b>private repositories</b></li>
+<li>👾 a <b>student</b> working his way around things</li>
 <h2> | Current Skills | </h2>
-<li>currently learning Python</li>
+<li>currently learning <b>Python</b></li>
 <li>frameworks & libraries</li>
   <div align="right">
     <a href="##">Satya Prakash Prajapati</a>
