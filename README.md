@@ -5,7 +5,7 @@
 <div>
 <img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
 <h2> / about me /</h2>
-<li>⭐ currently working on **Python**</li>
+<li>⭐ currently working on <br>Python</br></li>
 <li>💀 mostly working on **private repositories**</li>
 <li>👾 a **student** working his way around things</li>
 
