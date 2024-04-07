@@ -5,14 +5,14 @@
 <div>
 <img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
 <h2> / about me /</h2>
-<lo>⭐ currently working on **Python**</lo>
-<lo>💀 mostly working on **private repositories**</lo>
-<lo>👾 a **student** working his way around things</lo>
+<li>⭐ currently working on **Python**</li>
+<li>💀 mostly working on **private repositories**</li>
+<li>👾 a **student** working his way around things</li>
 
 <h2> / current skills / </h2>
-<lo>currently learning</lo>
-<lo>frameworks & libraries</lo>
-<lo>frameworks & libraries</lo>
+<li>currently learning</li>
+<li>frameworks & libraries</li>
+<li>frameworks & libraries</li>
 
 <div align="right">
 <a href="##">Satya Prakash Prajapati</a>
