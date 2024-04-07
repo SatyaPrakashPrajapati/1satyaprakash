@@ -4,13 +4,13 @@
 
 <div>
 <img align="right" width="400" alt="Satya Prakash Prajapati" src="###"/>
-<h2> / About \</h2>
+<h2> | About |</h2>
 <li>⭐ currently working on **Python**</li>
 <li>💀 mostly working on **private repositories**</li>
 <li>👾 a **student** working his way around things</li>
 
-<h2> / Current Skills \ </h2>
-<li>currently learning</li>
+<h2> | Current Skills | </h2>
+<li>currently learning Python</li>
 <li>frameworks & libraries</li>
 
 <div align="right">
