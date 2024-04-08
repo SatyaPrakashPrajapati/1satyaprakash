@@ -14,7 +14,8 @@
 <li>currently learning <b>Python</b></li>
 <li>frameworks & libraries</li>
   <div align="right">
-    <a href="##">Satya Prakash Prajapati</a>
+    <a href="(https://www.buymeacoffee.com/onesatyaprakash
+)">Satya Prakash Prajapati</a>
   </div>
 </div>
   
